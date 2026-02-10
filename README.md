@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi 👋 I'm Aynur Denikayeva
 
-<!--
-**aynurdenikayeva/aynurdenikayeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Backend Developer (Java & Spring Boot)**  
+🎯 Focused on building scalable backend systems  
+🌱 Currently improving my skills in Microservices & Clean Architecture  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,postgres,docker,git,github)
+
+---
+
+### 📦 Featured Projects
+- 🔔 **Event-Driven Notification Microservice**  
+- 💰 **Digital Wallet System (Spring Boot)**  
+- 🏢 **Mini ERP – Order Management System**  
+
+---
+
+### 📊 GitHub Stats
+![Aynur's GitHub stats](https://github-readme-stats.vercel.app/api?username=aynurdenikayeva&show_icons=true&theme=default)
+
+---
+
+### 📫 Contact
+- GitHub: https://github.com/aynurdenikayeva
