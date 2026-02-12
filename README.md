@@ -18,11 +18,5 @@
 
 ---
 
-### 📊 GitHub Stats
-![Aynur's GitHub stats](https://github-readme-stats.vercel.app/api?username=aynurdenikayeva&show_icons=true&theme=radical&cache_seconds=86400&v=2)
-
-
----
-
 ### 📫 Contact
 - GitHub: https://github.com/aynurdenikayeva
