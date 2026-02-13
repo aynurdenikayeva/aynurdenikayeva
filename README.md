@@ -20,3 +20,4 @@
 
 ### 📫 Contact
 - GitHub: https://github.com/aynurdenikayeva
+- Gmail:  aynurdenikayeva@gmail.com
