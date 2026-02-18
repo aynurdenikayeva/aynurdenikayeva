@@ -14,7 +14,9 @@
 ### 📦 Featured Projects
 - 🔔 **Event-Driven Notification Microservice**  
 - 💰 **Digital Wallet System (Spring Boot)**  
-- 🏢 **Mini ERP – Order Management System**  
+- 🏢 **Mini ERP – Order Management System**
+- 🛡  **Spring Api Gateway Aggregation**
+
 
 ---
 
