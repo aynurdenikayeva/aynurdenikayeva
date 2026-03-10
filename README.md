@@ -16,7 +16,8 @@
 - 💰 **Digital Wallet System (Spring Boot)**  
 - 🏢 **Mini ERP – Order Management System**
 - 🛡  **Spring Api Gateway Aggregation**
-- 🚀 **Custom Circuit Breaker Microservices** 
+- 🚀 **Custom Circuit Breaker Microservices**
+- 💳 **Fine-Grained Role-Based Access Control with JWT**
 
 
 ---
