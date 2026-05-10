@@ -19,6 +19,7 @@
 - 🚀 **Custom Circuit Breaker Microservices**
 - 💳 **Fine-Grained Role-Based Access Control with JWT**
 - 🎓 **Student Exam Management System**
+- 🔐 **OAuth2 Login Integration with Google or GitHub**
 
 ---
 
