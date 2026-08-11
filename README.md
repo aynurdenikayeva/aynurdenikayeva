@@ -7,7 +7,7 @@
 ---
 
 ### 🛠 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,postgres,docker,git,github,html,css,javascript,boostrap,postman)
+![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,postgres,docker,git,github,html,css,javascript,postman)
 
 ---
 
