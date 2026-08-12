@@ -22,6 +22,8 @@
 - 🔐 **OAuth2 Login Integration with Google or GitHub**
 - 🔐 **MFA Security System**
 - 📝 **AI Quiz Analytics System**
+- 📋 **To-Do List Web Application**
+- 
 
 ---
 
