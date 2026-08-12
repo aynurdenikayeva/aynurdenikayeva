@@ -1,8 +1,8 @@
 ## Hi 👋 I'm Aynur Denikayeva
 
-💻 **Backend Developer (Java & Spring Boot)**  
-🎯 Focused on building scalable backend systems  
-🌱 Currently improving my skills in Microservices & Clean Architecture  
+💻 **Full Stack Developer | Java & Spring Boot**  
+🎯 Focused on Full Stack Development with Java & Spring Boot
+🌱 Currently improving my skills in Microservices, Clean Architecture & Frontend Development
 
 ---
 
