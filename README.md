@@ -23,6 +23,7 @@
 - 🔐 **MFA Security System**
 - 📝 **AI Quiz Analytics System**
 - 📋 **To-Do List Web Application**
+- 🌤️ **Weather Forecast Application with Weather API**
 
 ---
 
