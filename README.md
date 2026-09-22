@@ -25,7 +25,8 @@
 - 📋 **To-Do List Web Application**
 - 🌤️ **Weather Forecast Application with Weather API**
 - 🎮 **Sudoku Game**
-
+- 💻 **Frontend Practice Projects**
+- 📈 **Stock Analysis & Trader Bot Platform**
 ---
 
 ### 📫 Contact
